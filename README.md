@@ -20,4 +20,12 @@ Foloșiți installer-ul goalfollower.apk pentru a instala aplicația
 > 1. Android Studio
 > 2. Paint.net
 
+# Autori
+Echipa nr. 3 - RadiantBurst
+1. Cucu Ștefan
+2. Ciotei Cristian
+3. Fărcășanu Andrei
+4. Năstase Maria
+5. Tudor Mihnea
+6. Țîru Luca
 
