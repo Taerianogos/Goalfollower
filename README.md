@@ -12,8 +12,10 @@ De ce aveți nevoie pentru a utiliza această aplicație
 > 1. Dispozitiv Android cu NFC (Minim 2 pentru a experimenta toate funcțiile aplicației)
 > 2. Acces la internet
 
-# Instalare
-Folosiți installer-ul goalfollower.apk pentru a instala aplicația
+# Cont de test
+>Email: user@test.com
+>Parola: 123456
+Daca se foloseste Android Studio pentru compilarea aplicatiei, recomandam dezactivarea functiei de Instant Run pentru a garanta functionarea acesteia.
 
 # Programele folosite în construirea aplicației
 
